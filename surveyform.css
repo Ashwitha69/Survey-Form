@@ -1,0 +1,17 @@
+div{
+   border: 20px solid green;
+   margin-left: 35%;
+}
+h1{
+    margin-top: 0px;
+    margin-left: 50px;
+}
+#name{
+    margin-top: 5px;
+}
+#submit{
+    margin-left: 40%;
+}
+form{
+    margin-left: 5px;
+}
